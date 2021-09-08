@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Vision Engineering
 - 🌱 I’m currently learning some methods to improve accuracy NN
 - 💞️ I’m looking to collaborate on ...
-- 📫 You to reach me ...
+- 📫 You to reach me tg @Anthony_Melo
 
 <!---
 AtMelo/AtMelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
