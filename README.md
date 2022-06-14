@@ -1,5 +1,7 @@
 - 👋 Hi, I'm Computer Vision Engineer
-- 📫 You can reach me tg @Anthony_Melo
+- I'm currently working on a tutorial for beginners in ML/DL. 
+  There will be described in detail the standard tasks of regression, classification, etc. 
+  
 <div id="header" align="left">
   <img src='https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif' width= 300/>
 </div>
